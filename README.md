@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ![BannerMM](https://user-images.githubusercontent.com/122704851/212502484-aed37b3f-43d5-40b4-bd2f-7f1489489b3d.png)
 
 
