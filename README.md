@@ -1,5 +1,25 @@
+Hey there! 🤝 Welcome my name is...
+
 ![BannerMM](https://user-images.githubusercontent.com/122704851/212502484-aed37b3f-43d5-40b4-bd2f-7f1489489b3d.png)
 
+## About me...
+I have experience in web, containers, CI/CD (AngularJS, ReactJS, .Net Core, REST Services, SQL, TDD, BDD). To do my jobs I use agile methodologies as SCRUM and Kanban. 
+
+🌱 Right now, I work as Full Stack Developer for 'Software Evolutivo'.
+
+🤓 I'm currently finishing a Software Engineer degree.
+
+🔭 I'm improving my technical skills.
+
+## 📡 Find me there...
+
+- [Twitter](https://twitter.com/mateomartinz) where I share my personal thinking.
+- [LinkedIn](https://www.linkedin.com/in/mateomartinz/) to know my experience better.
+- [Instagram](https://www.instagram.com/mateomartinz/), where I have some personal and random photos.
+
+## To contact me...
+Write me an email.
+- My email: <a style="margin-left: 8px;" href="mailto:mateo.98mu@gmail.com">mateo.98mu@gmail.com</a>
 
 <!--
 **mmartinezu/mmartinezu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
