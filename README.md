@@ -2,7 +2,7 @@
 
 ![BannerMM](https://user-images.githubusercontent.com/122704851/212502484-aed37b3f-43d5-40b4-bd2f-7f1489489b3d.png)
 
-## About me...
+## 👤 About me...
 I have experience in web, containers, CI/CD (AngularJS, ReactJS, .Net Core, REST Services, SQL, TDD, BDD). To do my jobs I use agile methodologies as SCRUM and Kanban. 
 
 🌱 Right now, I work as Full Stack Developer for 'Software Evolutivo'.
