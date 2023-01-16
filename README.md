@@ -22,7 +22,7 @@ Write me an email.
 - My email: <a style="margin-left: 8px;" href="mailto:mateo.98mu@gmail.com">mateo.98mu@gmail.com</a>
 
 ## ⚡ More about me...
-- My CV in PDF format: <a style="text-align: center;" href="(https://drive.google.com/file/d/1bXgqj5BhOgsQe1aXm_SqQ6RHYi7N9cMl/view?usp=share_link)">CV</a>
+- My CV in PDF: <a style="text-align: center;" href="https://drive.google.com/file/d/1bXgqj5BhOgsQe1aXm_SqQ6RHYi7N9cMl/view?usp=share_link">Curriculum Vitae</a>
 
 <!--
 **mmartinezu/mmartinezu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
