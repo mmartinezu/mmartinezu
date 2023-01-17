@@ -25,7 +25,7 @@ I have experience in web, containers, CI/CD (AngularJS, ReactJS, .Net Core, REST
 
 | **GitHub Stats** | **Programming Languages** |
 ---|---  
-| ![MateoMartinez's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmartinezu&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmartinezu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |
+| ![MateoMartinez's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmartinezu&show_icons=true&theme=tokyonight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmartinezu&layout=compact&theme=tokyonight)] |
 
 ## 📡 Find me there...
 
